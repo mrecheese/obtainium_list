@@ -1,2 +1,2 @@
 # obtainium_list
-Obtainium all lists
+Obtainium app lists
